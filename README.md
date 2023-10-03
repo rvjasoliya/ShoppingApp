@@ -3,8 +3,11 @@
 
 API:
     https://dummyjson.com/products
+
     https://dummyjson.com/products/categories
+
     https://dummyjson.com/products/category
+
 
 o Image slider
 
